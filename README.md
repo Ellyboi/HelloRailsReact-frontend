@@ -106,11 +106,10 @@ Run the following command
 ```
 ## 👥 Author <a name="authors"></a>
 
-👤 **Santiago Munoz**
+👤 **Vitoesi Elijah**
 
-- GitHub: [@christianonoh](https://github.com/christianonoh)
-- LinkedIn: [Christian Onoh](https://www.linkedin.com/in/christianonoh)
-
+- Twitter:[@Elijahvitoesi](https://twitter.com/Elijahvitoesi)
+- LinkedIn:[Vitoesi Elijah](https://www.linkedin.com/in/elijah-vitoesi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
