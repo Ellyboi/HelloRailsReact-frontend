@@ -31,7 +31,7 @@
 
 Hello-react-front-end is a react app that display a random greeting that is fetched by a rails API.
 
-Link to rails App: https://github.com/christianonoh/hello-rails-back-end
+Link to rails App: https://github.com/Ellyboi/HelloRailsReact-backend
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,7 +65,7 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git clone https://github.com/christianonoh/hello-react-front-end.git
+  git clone  https://github.com/Ellyboi/hello-railsr-eact-frontend.git
 ```
 
 ### Install
