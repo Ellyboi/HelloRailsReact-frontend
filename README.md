@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <br/>
-  <h3><b>Hello-react-front-end</b></h3>
+  <h3><b>Hello-react-frontend</b></h3>
 </div>
 # 📗 Table of Contents
 
@@ -139,6 +139,6 @@ I would like to thank to mi coding partners from Microverse bootcamp.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
